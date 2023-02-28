@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/veganlife/static/css/main.7fcacc4c.css",
-    "main.js": "/veganlife/static/js/main.cbb39c30.js",
+    "main.js": "/veganlife/static/js/main.568fda42.js",
     "static/js/787.93b0e0c0.chunk.js": "/veganlife/static/js/787.93b0e0c0.chunk.js",
     "index.html": "/veganlife/index.html",
     "main.7fcacc4c.css.map": "/veganlife/static/css/main.7fcacc4c.css.map",
-    "main.cbb39c30.js.map": "/veganlife/static/js/main.cbb39c30.js.map",
+    "main.568fda42.js.map": "/veganlife/static/js/main.568fda42.js.map",
     "787.93b0e0c0.chunk.js.map": "/veganlife/static/js/787.93b0e0c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fcacc4c.css",
-    "static/js/main.cbb39c30.js"
+    "static/js/main.568fda42.js"
   ]
 }
