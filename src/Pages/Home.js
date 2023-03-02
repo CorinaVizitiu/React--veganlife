@@ -1,13 +1,15 @@
 import React from 'react';
 import Menu from '../Menu';
+import "./Home.css";
+import img1 from  "../img/logo.jpg";
 const Accueil = (props) => {
     return (
         <div>
             <Menu/>
+         <img src={img1} alt="" width={150} ></img> 
             <h1 class="col-sm-3"> What Is a Vegan? </h1>
             <p class="col-sm-9">
-            What Is a Vegan? 
-Though veganism is often thought of as a diet that excludes all animal products, choosing to be vegan can also mean more far-reaching lifestyle changes. Living a vegan lifestyle means abstaining, as far as is possible and practical, from anything that requires the exploitation of another living being. Of course, this includes abstaining from consuming animal products, but also requires attention to clothes, makeup, and many other facets of life.  
+           Though veganism is often thought of as a diet that excludes all animal products, choosing to be vegan can also mean more far-reaching lifestyle changes. Living a vegan lifestyle means abstaining, as far as is possible and practical, from anything that requires the exploitation of another living being. Of course, this includes abstaining from consuming animal products, but also requires attention to clothes, makeup, and many other facets of life.  
             </p>
             <h1 class="col-sm-3">What Is a Vegan Lifestyle?</h1>
 <p class="col-sm-9">Though a vegan diet might be adhered to for a variety of reasons such as for personal health or preference, a vegan lifestyle requires empathy and compassion due to the ideology of doing no harm that it represents. </p>
