@@ -34,6 +34,9 @@ body{
   height: 900px;
   
 }
+.droit{
+ margin-left: 660px;
+}
 @media screen and  (max-width: 500px){
 .navbar{
     flex-direction: column;
@@ -51,12 +54,12 @@ body{
 }
 }
     
-.logo{ height: 75px;
+/* .logo{ height: 75px;
   width: 75px;
  margin-left: -60%;
  right: 20%;
  
-}
+} */
 .col-sm-9{
   margin-left: 15%;
 }

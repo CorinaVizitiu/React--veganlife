@@ -10,6 +10,8 @@ const Menu = (props) => {
                 <NavLink to='/veganlife' className="items"><li>Home</li></NavLink>
                 <NavLink to='/Nutrition'className="items" ><li>Nutrition</li></NavLink>
                 <NavLink to='/Recipes' className="items"><li>Recipes</li></NavLink>
+                <NavLink to='/myaccount' className="items"><li className="droit">MyAccount</li></NavLink>
+               
             </ul>
         </div>
     );
