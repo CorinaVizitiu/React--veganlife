@@ -1,1 +1,1 @@
-Visite  https://corinavizitiu.github.io/React--veganlife/
+Visite  https://corinavizitiu.github.io/veganlife
