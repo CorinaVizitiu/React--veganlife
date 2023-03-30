@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/veganlife/static/css/main.ee42a6ab.css",
-    "main.js": "/veganlife/static/js/main.35611627.js",
+    "main.css": "/veganlife/static/css/main.44f471d3.css",
+    "main.js": "/veganlife/static/js/main.ddcc28de.js",
     "static/js/787.93b0e0c0.chunk.js": "/veganlife/static/js/787.93b0e0c0.chunk.js",
     "static/media/n5.jpg": "/veganlife/static/media/n5.4bc92d1a5abe86a87b14.jpg",
     "static/media/n4.jpeg": "/veganlife/static/media/n4.05c00f5e4b1506d6e937.jpeg",
@@ -24,12 +24,12 @@
     "static/media/revicons.ttf": "/veganlife/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/veganlife/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/veganlife/index.html",
-    "main.ee42a6ab.css.map": "/veganlife/static/css/main.ee42a6ab.css.map",
-    "main.35611627.js.map": "/veganlife/static/js/main.35611627.js.map",
+    "main.44f471d3.css.map": "/veganlife/static/css/main.44f471d3.css.map",
+    "main.ddcc28de.js.map": "/veganlife/static/js/main.ddcc28de.js.map",
     "787.93b0e0c0.chunk.js.map": "/veganlife/static/js/787.93b0e0c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee42a6ab.css",
-    "static/js/main.35611627.js"
+    "static/css/main.44f471d3.css",
+    "static/js/main.ddcc28de.js"
   ]
 }
